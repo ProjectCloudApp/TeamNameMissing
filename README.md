@@ -20,7 +20,14 @@ After users click BMI calculator, users need to key in their name,height(in cm) 
 <br />
 <br />
 <li><b>Calorie Calculator</b></li>
-In this Calorie Calculator tab, users will need to key in their name, distance(in km) based on their running distance, and weight(in kg) to calculate how much their calories have burned. After keying in 3 of the fields, users have to press "<i>Calculate</i>" button in order to calculate the Calorie Burn result. The screen will show the result of calories burn and whether they're Low calories burned, Normal calories burned, or High calories burned. After getting the result, the screen will show user a button "<i>Store Data</i>" for users to save the calculated result into the database.
+After users click Calo Calculator, users have to key in their name, distance(in km) based on their running distance, and weight(in kg) to calculate how much calories they burned today.After finished to key in,Press "<i>Calculate</i>"  button so users can know their calories burned results .After users calculated their calories burned results, google form will received data and it will save into google sheet. Then,MyBMIUSR will display their data under Calories Burned History.
+<p align="left">
+  <img src="Example3.png">
+</p>
+<p align="left">
+  <img src="Example4.png">
+</p>
+
 <br />
 <br />
 <li><b>Show History</b></li>
