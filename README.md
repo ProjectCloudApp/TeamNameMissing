@@ -44,10 +44,10 @@ After users click Remind,users can set time to remind them what they have to do 
   <img src="Example7.png">
 </p>
 <p align="left">
-  <img src="Example11.png">
+  <img src="Example8.png">
 </p>
 <p align="left">
-  <img src="Example8.png">
+  <img src="Example11.png">
 </p>
 <p align="left">
   <img src="Example9.png">
