@@ -18,8 +18,9 @@ In this Calorie Calculator tab, users will need to key in their name, distance(i
 <li><b>Show History</b></li>
 In this Show History tab, when users press on the button, they'll be directed to the History Screen which allows users to view the <b>BMI History</b>, <b>BMI Chart</b>, <b>Calorie History</b>, or <b>Calorie Chart</b> after they save their result into the database.
 
+# ReadMe
 
-## STEPs taken by developers when implementing the app.
+# STEPs taken by developers when implementing the app.
   
 Step 1:Define the purpose of creating the app
   
@@ -38,10 +39,14 @@ Step 7:Launch your app
 Step 8:Promote and Marketing
 
 
-## Hardware /Software tools / Platform used to implement the app
+## Hardware /Software tools 
 
-Hardware: Laptops, handphone
+## Hardware
+- Laptops
+- handphone
 
-Software :Browsers 
+## Software 
+- Browsers 
 
-Platform: MIT app inventor
+## Platform 
+#### Mit app inventor
