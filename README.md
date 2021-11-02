@@ -39,7 +39,7 @@ In this BMI Chart or Calories Chart,it will show the BMI PIE or calories PIE aft
   <img src="Example6.png">
 </p>
 <li><b>Remind</b></li>
-After users click Remind,users can set time to remind them what they have to do in that time,users can also type messages in Alarm descreption.After users set their time and type messages,click "<i>Set Alarm</i>.The alarm will sound at the time that set by users.Users can also delete Alarm.
+After users click Remind,users can set time to remind them what they have to do at that time,users can also type messages in Alarm descreption.After users set their time and type messages,click "<i>Set Alarm</i>.The alarm will sound at the time that set by users.Users can also delete Alarm.
 <p align="left">
   <img src="Example7.png">
 </p>
