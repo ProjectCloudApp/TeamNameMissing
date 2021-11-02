@@ -103,4 +103,4 @@ Step 8:Promote and Marketing
 - MIT AI2 Companion
 
 ##License
-Distributed under MIT License. See [LICENSE](https://github.com/chriswongez/Health_App/blob/main/LICENSE) for more information.
+Distributed under MIT License. See [LICENSE](https://github.com/ProjectCloudApp/TeamNameMissing/blob/34d40d8080a5f5cc5bd0b060fd79c883a7486733/LICENSE) for more information.
