@@ -32,6 +32,12 @@ After users click Calo Calculator, users have to key in their name, distance(in 
 <br />
 <li><b>Chart</b></li>
 In this BMI Chart or Calories Chart,it will show the BMI PIE or calories PIE after users clicked.
+<p align="left">
+  <img src="Example5.png">
+</p>
+<p align="left">
+  <img src="Example6.png">
+</p>
 
 # ReadMe
 
