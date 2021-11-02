@@ -3,7 +3,7 @@
 
 <br>
 <br>
-Cancel changes
+
 ## Usage
 Through this Health App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the MyBMIUSR with 5 functions provided which are <b><i>BMI calculator</i></b>, <b><i>Calo calculator</i></b>, <b><i>Chart</i></b>, <b><i>Remind</i></b>, and<b><i>Quiz</b></i>.
 
