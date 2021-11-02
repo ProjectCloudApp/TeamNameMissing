@@ -6,6 +6,10 @@
 
 ## Usage
 Through this MyBMIUSR App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the MyBMIUSR app with 5 functions provided which are <b><i>BMI calculator</i></b>, <b><i>Calo calculator</i></b>, <b><i>Chart</i></b>, <b><i>Remind</i></b>, and <b><i>Quiz</b></i>.
+<br>
+<p align="left">
+  <img src="Example1.png">
+</p>
 
 <li><b>BMI Calculator</b></li>
 After users click BMI calculator, users need to key in their name,height(in cm) and weight(in kg) to calculate their BMI. After users key in their name,weight,and height,users have to press "<i>Calculate</i>" button so users can see their BMI result to know they are obese,overweight,normal or underweight.After users calculated their BMI, google form will received data and it will save into google sheet. Then,MyBMIUSR will display their data under Your BMI history.
