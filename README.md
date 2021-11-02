@@ -97,3 +97,10 @@ Step 8:Promote and Marketing
 
 ## Platform 
 #### Mit app inventor
+
+##APIs
+- MyBMIUSRYBMCKH
+- MIT AI2 Companion
+
+##License
+Distributed under MIT License. See [LICENSE](https://github.com/chriswongez/Health_App/blob/main/LICENSE) for more information.
