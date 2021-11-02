@@ -1,9 +1,9 @@
-# **BMI healthy app**
+# **MyBMIUSR**
 #### This is an app built by using MIT app inventor.The biggest purpose of this app is to urge current young people to become healthier people.
 
 <br>
 <br>
-
+Cancel changes
 ## Usage
 Through this Health App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the Health App with 3 functions provided which are <b><i>BMI Calculator</i></b>, <b><i>Calorie Calculator</i></b>, and <b><i>Show History</i></b>.
 
