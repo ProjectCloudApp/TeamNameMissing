@@ -56,6 +56,12 @@ After users click Remind,users can set time to remind them what they have to do 
   <img src="Example10.png">
 </p>
 
+<li><b>Quiz</b></li>
+After users click the "<i>Quiz</i>" button,users have to finish 10 quiz questions.These questions are to improve user's of healthy life and let users know more about healthy life.
+<p align="left">
+  <img src="Example12.png">
+</p>
+
 
 
 
