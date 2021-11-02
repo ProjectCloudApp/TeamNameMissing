@@ -30,38 +30,38 @@ After users click Calo Calculator, users have to key in their name, distance(in 
 
 <br />
 <br />
-<li><b>Show History</b></li>
-In this Show History tab, when users press on the button, they'll be directed to the History Screen which allows users to view the <b>BMI History</b>, <b>BMI Chart</b>, <b>Calorie History</b>, or <b>Calorie Chart</b> after they save their result into the database.
+<li><b>Chart</b></li>
+In this BMI Chart or Calories Chart,it will show the BMI PIE or calories PIE after users clicked.
 
 # ReadMe
 
 # STEPs taken by developers when implementing the app.
   
-> Step 1:Define the purpose of creating the app
+Step 1:Define the purpose of creating the app
   
-> Step 2:Plan the functionality and Features of the app
+Step 2:Plan the functionality and Features of the app
 
-> Step 3:Desire the user interface for the app
+Step 3:Desire the user interface for the app
 
-> Step 4:Choose a development path(For us ,we are using MIT app inventor)
+Step 4:Choose a development path(For us ,we are using MIT app inventor)
 
-> Step 5:Develop the app
+Step 5:Develop the app
 
-> Step 6:Test Your app
+Step 6:Test Your app
 
-> Step 7:Launch your app
+Step 7:Launch your app
 
-> Step 8:Promote and Marketing
+Step 8:Promote and Marketing
 
 
 ## Hardware /Software tools 
 
 ## Hardware
-> - Laptops
-> - handphone
+- Laptops
+- handphone
 
 ## Software 
-> - Browsers 
+- Browsers 
 
 ## Platform 
 #### Mit app inventor
