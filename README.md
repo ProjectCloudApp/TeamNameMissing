@@ -102,5 +102,6 @@ Step 8:Promote and Marketing
 - MyBMIUSRYBMCKH
 - MIT AI2 Companion
 
-##License
+## License
+
 Distributed under MIT License. See [LICENSE](https://github.com/ProjectCloudApp/TeamNameMissing/blob/34d40d8080a5f5cc5bd0b060fd79c883a7486733/LICENSE) for more information.
