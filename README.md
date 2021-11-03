@@ -99,7 +99,7 @@ Step 3: Plan with member to add the functionality and features of the app
 
 Step 4: Discuss with member to design the user interface for the app
 
-Step 5: Choose a development path(For us ,we are using [MIT app inventor](http://ai2.appinventor.mit.edu/)
+Step 5: Choose a development path(For us ,we are using [MIT app inventor](http://ai2.appinventor.mit.edu/)）
 
 Step 6: Develop the app
 
