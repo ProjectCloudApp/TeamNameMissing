@@ -1,5 +1,5 @@
 # **MyBMIUSR**
-#### This is an app built by using MIT app inventor.The biggest purpose of this app is to urge current young people to become healthier people。
+#### This is an app built by using MIT app inventor.The biggest purpose of this app is to urge current young people to become healthier people.
 
 <br />
 
