@@ -120,7 +120,7 @@ Step 9: Promote and Marketing
 - Browsers 
 
 ## Platform 
-#### -[MIT app inventor](http://ai2.appinventor.mit.edu/)
+#### - [MIT app inventor](http://ai2.appinventor.mit.edu/)
 
 ## APIs
 - MyBMIUSR
