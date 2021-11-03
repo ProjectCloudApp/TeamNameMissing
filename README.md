@@ -68,22 +68,24 @@ After users click the "<i>Quiz</i>" button,users have to finish 10 quiz question
 # ReadMe
 
 # STEPs taken by developers when implementing the app.
+
+Step 1: Download the [.aia file](https://drive.google.com/file/d/1ZvbNmo_nkaRzQCbqZLykw5YQ3Ww8rh3S/view?usp=sharing) from the googledrive folder given by the lectuerer
   
-Step 1:Define the purpose of creating the app
-  
-Step 2:Plan the functionality and Features of the app
+Step 2: Discuss and define the purpose of creating the app with member
 
-Step 3:Desire the user interface for the app
+Step 3: Plan with member to add the functionality and features of the app
 
-Step 4:Choose a development path(For us ,we are using MIT app inventor)
+Step 4: Discuss with member to design the user interface for the app
 
-Step 5:Develop the app
+Step 5: Choose a development path(For us ,we are using [MIT app inventor](http://ai2.appinventor.mit.edu/)
 
-Step 6:Test Your app
+Step 6: Develop the app
 
-Step 7:Launch your app
+Step 7: Test Your app
 
-Step 8:Promote and Marketing
+Step 8: Launch your app
+
+Step 9: Promote and Marketing
 
 
 ## Hardware /Software tools 
@@ -96,10 +98,10 @@ Step 8:Promote and Marketing
 - Browsers 
 
 ## Platform 
-#### Mit app inventor
+#### -[MIT app inventor](http://ai2.appinventor.mit.edu/)
 
 ## APIs
-- MyBMIUSRYBMCKH
+- MyBMIUSR
 - MIT AI2 Companion
 
 ## License
