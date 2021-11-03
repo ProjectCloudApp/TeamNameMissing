@@ -110,7 +110,7 @@ Step 8: Launch your app
 Step 9: Promote and Marketing
 
 
-## Hardware /Software tools 
+## Hardware/Software tools 
 
 ## Hardware
 - Laptops
