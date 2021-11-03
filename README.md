@@ -38,7 +38,7 @@ After users click <i>"Calo Calculator"</i>, users have to key in their name, dis
 
 <br />
 <li><b>Pie Chart</b></li>
-The button of <i>"BMI Chart or Calories Chart"</i> will show the <i>"BMI PIE"</b> or <i>"calories PIE"</i> after users choose button clicked.
+The button of <i>"BMI Chart or Calories Chart"</i> will show the <i>"BMI PIE"</i> or <i>"calories PIE"</i> after users choose button clicked.
 <br />
 <br />
 
