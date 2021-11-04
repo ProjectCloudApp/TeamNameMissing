@@ -1,5 +1,5 @@
 ## Usage manual
-## Install and Connect
+## Install / Connect / Download / Run / Test APP
 In mobile phone, go to Play Store and search for [MIT AI2 Companion](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en&gl=US), and download the application.
 <br />
 <p align="center">
