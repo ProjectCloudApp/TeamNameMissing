@@ -3,7 +3,7 @@
 In mobile phone, go to Play Store and search for "MIT AI2 Companion", and download the application.
 <br />
 <p align="center">
-  <img src="imgs/mit.png">
+  <img src="imgs/mit.jpg">
 </p>
 
 
