@@ -6,7 +6,7 @@
 MyBMIUSR V 1.0.0
 <br />Release date : 4/11/2021
 <br />Author : Cheah Peng Lun, Lam Kah Hang, Lim Yong Bin, Law Ze Ming, Marcus Ang Khai Kiat
-<br />Improvement : <br />More friendly interface for user. <br />Adding expert advice for user. <br />Build an interface of distance of running. <br />Adding recipe of the healtier food. <br />Adding the workout music for user listen while they are doing their workout.
+<br />Improvement : <br />- More friendly interface for user. <br />- Adding expert advice for user. <br />- Build an interface of distance of running. <br />- Adding recipe of the healtier food. <br />- Adding the workout music for user listen while they are doing their workout.
 <br />
 
 
