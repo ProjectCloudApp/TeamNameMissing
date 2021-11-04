@@ -3,6 +3,15 @@
 
 <br />
 
+MyBMIUSR V 1.0.0
+Rekease date : 4/11/2021
+Author : Cheah Peng Lun, Lam Kah Hang, Lim Yong Bin, Law Ze Ming, Marcus Ang Khai Kiat
+Improvement : ...
+<br />
+
+
+<br />
+
 ## Usage
 Through this MyBMIUSR App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the MyBMIUSR app with 5 functions provided which are <b><i>BMI calculator</i></b>, <b><i>Calo calculator</i></b>, <b><i>Chart</i></b>, <b><i>Remind</i></b>, and <b><i>Quiz</b></i>.
 <br />
