@@ -1,12 +1,44 @@
 ## Usage manual
 ## Install and Connect
-In mobile phone, go to Play Store and search for "MIT AI2 Companion", and download the application.
+In mobile phone, go to Play Store and search for [MIT AI2 Companion](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en&gl=US), and download the application.
 <br />
 <p align="center">
   <img src="imgs/mit.jpg">
 </p>
+<br />
 
+In browers search [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) below is page you will reach.
+<br />
+<p align="center">
+  <img src="imgs/mitweb.png">
+</p>
+<br />
 
+After click create apps and login you need to download. Next is import the in our Repositories [.aiafile](https://github.com/ProjectCloudApp/TeamNameMissing.git) make sure your aiafile extension got [.aixfile](https://github.com/ProjectCloudApp/TeamNameMissing.git/).
+<br />
+<p align="center">
+  <img src="imgs/aiaaix.jpg">
+</p>
+<br />
+<br />
+<p align="center">
+  <img src="imgs/mitimportandexport.jpg">
+</p>
+<br />
+
+Under build you need to download apk file. Will show button and bar code that can download apk file for android app.
+<br />
+<p align="center">
+  <img src="imgs/buildapp.png">
+</p>
+<br />
+<br />
+<p align="center">
+  <img src="imgs/apk.png">
+</p>
+<br />
+
+## MyBMIUSR
 Through this MyBMIUSR App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the MyBMIUSR app with 5 functions provided which are <b><i>BMI calculator</i></b>, <b><i>Calo calculator</i></b>, <b><i>Chart</i></b>, <b><i>Remind</i></b>, and <b><i>Quiz</b></i>.
 <br />
 
