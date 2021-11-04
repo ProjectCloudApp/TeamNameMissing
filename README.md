@@ -91,7 +91,7 @@ After users click the "<i>Quiz</i>" button, users have to finish 10 quiz questio
 
 # STEPs taken by developers when implementing the app.
 
-Step 1: Download the [.aia file](https://drive.google.com/file/d/1ZvbNmo_nkaRzQCbqZLykw5YQ3Ww8rh3S/view?usp=sharing) from the googledrive folder given by the lectuerer
+Step 1: Download the [.aia file](https://drive.google.com/file/d/1ZvbNmo_nkaRzQCbqZLykw5YQ3Ww8rh3S/view?usp=sharing) from the googledrive folder given by the lecturer
   
 Step 2: Discuss and define the purpose of creating the app with member
 
@@ -124,13 +124,22 @@ Step 9: Promote and Marketing
 
 ## APIs
 - [MyBMIUSR](https://drive.google.com/file/d/1ZvbNmo_nkaRzQCbqZLykw5YQ3Ww8rh3S/view?usp=sharing)
+<br />We download the original file from the lecturer's google drive folder.
+
 - [MIT AI2 Companion](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en&gl=US)
-- Google sheet
-  - [MyBMIUSRapponlyBMI](https://docs.google.com/spreadsheets/d/1CKXs8uD69j9uQhA-q36x-IFh5ELDnYfSnEq1-xw1-IE/edit?usp=sharing)
-  - [MyBMIUSRapponlycalories](https://docs.google.com/spreadsheets/d/18IzK8YVKOEp4JwXK3rYts2yGzTibwcU8aAfsDC82IKc/edit?usp=sharing)
+<br />This is for us run or test our app in android phone.
+
 - Google form
+<br />This form is receive data when user fill in their detail in app.
+
   - [MyBMIUSRapponlyBMI](https://forms.gle/XFfnTf5JEaTsasCfA)
   - [MyBMIUSRapponlycalories](https://forms.gle/1wo1xCsmDLW3RkWf8)
+
+- Google sheet
+<br />Sheet is to store data when user fill in their detail in app.
+
+  - [MyBMIUSRapponlyBMI](https://docs.google.com/spreadsheets/d/1CKXs8uD69j9uQhA-q36x-IFh5ELDnYfSnEq1-xw1-IE/edit?usp=sharing)
+  - [MyBMIUSRapponlycalories](https://docs.google.com/spreadsheets/d/18IzK8YVKOEp4JwXK3rYts2yGzTibwcU8aAfsDC82IKc/edit?usp=sharing)
 
 ## License
 
