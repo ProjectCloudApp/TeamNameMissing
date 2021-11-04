@@ -18,7 +18,7 @@ After users click <i>"BMI calculator"</i>, users need to key in their name, heig
   <img src="imgs/Example1.png">
 </p>
 <p align="left">
-  <img src="Example2.png">
+  <img src="imgs/Example2.png">
 </p>
 
 
@@ -29,10 +29,10 @@ After users click <i>"Calo Calculator"</i>, users have to key in their name, dis
 <br />
 
 <p align="left">
-  <img src="Example3.png">
+  <img src="imgs/Example3.png">
 </p>
 <p align="left">
-  <img src="Example4.png">
+  <img src="imgs/Example4.png">
 </p>
 
 
@@ -43,10 +43,10 @@ The button of <i>"BMI Chart or Calories Chart"</i> will show the <i>"BMI PIE"</i
 <br />
 
 <p align="left">
-  <img src="Example5.png">
+  <img src="imgs/Example5.png">
 </p>
 <p align="left">
-  <img src="Example6.png">
+  <img src="imgs/Example6.png">
 </p>
 
 
@@ -57,19 +57,19 @@ After users click <i>"Remind button"</i>, users can select or set a time by clic
 <br />
 
 <p align="left">
-  <img src="Example7.png">
+  <img src="imgs/Example7.png">
 </p>
 <p align="left">
-  <img src="Example8.png">
+  <img src="imgs/Example8.png">
 </p>
 <p align="left">
-  <img src="Example11.png">
+  <img src="imgs/Example11.png">
 </p>
 <p align="left">
-  <img src="Example9.png">
+  <img src="imgs/Example9.png">
 </p>
 <p align="left">
-  <img src="Example10.png">
+  <img src="imgs/Example10.png">
 </p>
 
 
@@ -80,7 +80,7 @@ After users click the "<i>Quiz</i>" button, users have to finish 10 quiz questio
 <br />
 
 <p align="left">
-  <img src="Example12.png">
+  <img src="imgs/Example12.png">
 </p>
 
 
