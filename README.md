@@ -146,25 +146,25 @@ Step 9: Promote and Marketing
 ## Version Control
 
 <b>MyBMIUSR v0(Pre-release)</b>
-<br />Release date : 15/10/2021
-<br />Author : Marcus Ang Khai Kiat, Law Ze Ming
-<br />Improvement : Create or design BMI calculator and display history BMI Block and interface designer in MIT app inventor. Create Google form and Google sheet to receive and store users detail or information.
+<br />Release date : 7/10/2021
+<br />Author : Lecturer
+<br />Improvement : Original file
 <br />
 
 <b>MyBMIUSR Version1(Pre-release)</b>
-<br />Release date : 15/10/2021
+<br />Release date : 14/10/2021
 <br />Author : Marcus Ang Khai Kiat, Law Ze Ming
 <br />Improvement : Create or design BMI calculator and display history BMI Block and interface designer in MIT app inventor. Create Google form and Google sheet to receive and store users detail or information.
 <br />
 
 <b>MyBMIUSR Version2(Pre-release)</b>
-<br />Release date : 22/10/2021
+<br />Release date : 21/10/2021
 <br />Author : Marcus Ang Khai Kiat, Cheah Peng Lun
 <br />Improvement : Create or design Calories calculator and display history Calories Block and interface designer in MIT app inventor. Create Google form and Google sheet to receive and store users detail or information.
 <br />
 
 <b>MyBMIUSR Version3(Pre-release)</b>
-<br />Release date : 29/10/2021
+<br />Release date : 28/10/2021
 <br />Author : Law Ze Ming, Lam Kah Hang
 <br />Improvement : Show Pie chart.
 <br />
