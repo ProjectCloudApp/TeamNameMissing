@@ -4,9 +4,9 @@
 <br />
 
 MyBMIUSR V 1.0.0
-Rekease date : 4/11/2021
-Author : Cheah Peng Lun, Lam Kah Hang, Lim Yong Bin, Law Ze Ming, Marcus Ang Khai Kiat
-Improvement : ...
+<br />Rekease date : 4/11/2021<br />
+<br />Author : Cheah Peng Lun, Lam Kah Hang, Lim Yong Bin, Law Ze Ming, Marcus Ang Khai Kiat<br />
+<br />Improvement : ...
 <br />
 
 
