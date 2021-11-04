@@ -3,13 +3,6 @@
 
 <br />
 
-MyBMIUSR V 1.0.0
-<br />Release date : 4/11/2021
-<br />Author : Cheah Peng Lun, Lam Kah Hang, Lim Yong Bin, Law Ze Ming, Marcus Ang Khai Kiat
-<br />Improvement : <br />- More friendly interface for user. <br />- Adding expert advice for user. <br />- Build an interface of distance of running. <br />- Adding recipe of the healtier food. <br />- Adding the workout music for user listen while they are doing their workout.
-<br />
-
-
 <br />
 
 ## Usage
@@ -149,6 +142,32 @@ Step 9: Promote and Marketing
 
   - [MyBMIUSRapponlyBMI](https://docs.google.com/spreadsheets/d/1CKXs8uD69j9uQhA-q36x-IFh5ELDnYfSnEq1-xw1-IE/edit?usp=sharing)
   - [MyBMIUSRapponlycalories](https://docs.google.com/spreadsheets/d/18IzK8YVKOEp4JwXK3rYts2yGzTibwcU8aAfsDC82IKc/edit?usp=sharing)
+
+## Version Control
+
+<b>MyBMIUSR V 1.0.0</b>
+<br />Release date : 8/10/2021
+<br />Author : Marcus Ang Khai Kiat, Law Ze Ming
+<br />Improvement : Create or design BMI calculator and display history BMI Block and interface designer in MIT app inventor. Create Google form and Google sheet to receive and store users detail or information.
+<br />
+
+<b>MyBMIUSR V 2.0.0</b>
+<br />Release date : 15/10/2021
+<br />Author : Marcus Ang Khai Kiat, Cheah Peng Lun
+<br />Improvement : Create or design Calories calculator and display history Calories Block and interface designer in MIT app inventor. Create Google form and Google sheet to receive and store users detail or information.
+<br />
+
+<b>MyBMIUSR V 3.0.0</b>
+<br />Release date : 22/10/2021
+<br />Author : Law Ze Ming, Lam Kah Hang
+<br />Improvement : Show Pie chart.
+<br />
+
+<b>MyBMIUSR V 4.0.0</b>
+<br />Release date : 29/10/2021
+<br />Author : Lim Yong Bin
+<br />Improvement : quiz and remind alarm designer and block. And interface design.
+<br />
 
 ## License
 
