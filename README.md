@@ -123,8 +123,14 @@ Step 9: Promote and Marketing
 - #### [MIT app inventor](http://ai2.appinventor.mit.edu/)
 
 ## APIs
-- MyBMIUSR
-- MIT AI2 Companion
+- [MyBMIUSR](https://drive.google.com/file/d/1ZvbNmo_nkaRzQCbqZLykw5YQ3Ww8rh3S/view?usp=sharing)
+- [MIT AI2 Companion](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en&gl=US)
+- Google sheet
+- [MyBMIUSRapponlyBMI](https://docs.google.com/spreadsheets/d/1CKXs8uD69j9uQhA-q36x-IFh5ELDnYfSnEq1-xw1-IE/edit?usp=sharing)
+- [MyBMIUSRapponlycalories](https://docs.google.com/spreadsheets/d/18IzK8YVKOEp4JwXK3rYts2yGzTibwcU8aAfsDC82IKc/edit?usp=sharing)
+- Google form
+- [MyBMIUSRapponlyBMI](https://forms.gle/XFfnTf5JEaTsasCfA)
+- [MyBMIUSRapponlycalories](https://forms.gle/1wo1xCsmDLW3RkWf8)
 
 ## License
 
