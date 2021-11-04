@@ -15,7 +15,7 @@ After users click <i>"BMI calculator"</i>, users need to key in their name, heig
 <br />
 
 <p align="left">
-  <img src="Example1.png">
+  <img src="imgs/Example1.png">
 </p>
 <p align="left">
   <img src="Example2.png">
