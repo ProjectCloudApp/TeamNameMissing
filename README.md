@@ -16,10 +16,10 @@ After users click <i>"BMI calculator"</i>, users need to key in their name, heig
 <br />
 <br />
 
-<p align="left">
+<p align="center">
   <img src="imgs/Example1.png">
 </p>
-<p align="left">
+<p align="center">
   <img src="imgs/Example2.png">
 </p>
 
@@ -30,10 +30,10 @@ After users click <i>"Calo Calculator"</i>, users have to key in their name, dis
 <br />
 <br />
 
-<p align="left">
+<p align="center">
   <img src="imgs/Example3.png">
 </p>
-<p align="left">
+<p align="center">
   <img src="imgs/Example4.png">
 </p>
 
@@ -44,10 +44,10 @@ The button of <i>"BMI Chart or Calories Chart"</i> will show the <i>"BMI PIE"</i
 <br />
 <br />
 
-<p align="left">
+<p align="center">
   <img src="imgs/Example5.png">
 </p>
-<p align="left">
+<p align="center">
   <img src="imgs/Example6.png">
 </p>
 
@@ -58,19 +58,19 @@ After users click <i>"Remind button"</i>, users can select or set a time by clic
 <br />
 <br />
 
-<p align="left">
+<p align="center">
   <img src="imgs/Example7.png">
 </p>
-<p align="left">
+<p align="center">
   <img src="imgs/Example8.png">
 </p>
-<p align="left">
+<p align="center">
   <img src="imgs/Example11.png">
 </p>
-<p align="left">
+<p align="center">
   <img src="imgs/Example9.png">
 </p>
-<p align="left">
+<p align="center">
   <img src="imgs/Example10.png">
 </p>
 
@@ -81,7 +81,7 @@ After users click the "<i>Quiz</i>" button, users have to finish 10 quiz questio
 <br />
 <br />
 
-<p align="left">
+<p align="center">
   <img src="imgs/Example12.png">
 </p>
 
@@ -163,7 +163,7 @@ Step 9: Promote and Marketing
 <br />Improvement : Show Pie chart.
 <br />
 
-<b>MyBMIUSR V 1.0.0(Formal app)</b>
+<b>MyBMIUSR V 1.0.0(Formal)</b>
 <br />Release date : 4/11/2021
 <br />Author : Lim Yong Bin
 <br />Improvement : quiz and remind alarm designer and block. And interface design.
