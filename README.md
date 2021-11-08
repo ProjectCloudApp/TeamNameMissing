@@ -1,7 +1,9 @@
-# **MyBMIUSR**
-#### This is an app built by using MIT app inventor.The biggest purpose of this app is to urge current young people to become healthier people.
+# ReadMe
 
 <br />
+
+# **MyBMIUSR**
+#### This is an app built by using MIT app inventor.The biggest purpose of this app is to urge current young people to become healthier people.
 
 <br />
 
@@ -89,9 +91,9 @@ After users click the "<i>Quiz</i>" button, users have to finish 10 quiz questio
 
 
 
-# ReadMe
 
-# STEPs taken by developers when implementing the app.
+
+## STEPs taken by developers when implementing the app.
 
 Step 1: Download the [.aia file](https://drive.google.com/file/d/1ZvbNmo_nkaRzQCbqZLykw5YQ3Ww8rh3S/view?usp=sharing) from the googledrive folder given by the lecturer
   
@@ -114,14 +116,14 @@ Step 9: Promote and Marketing
 
 ## Hardware/Software tools 
 
-## Hardware
+### Hardware
 - Laptops
 - handphone
 
-## Software 
+### Software 
 - Browsers 
 
-## Platform 
+### Platform 
 - #### [MIT app inventor](http://ai2.appinventor.mit.edu/)
 
 ## APIs
